@@ -1,0 +1,3 @@
+streamlit
+tencentcloud-sdk-python-ocr
+pandas
